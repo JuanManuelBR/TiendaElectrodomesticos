@@ -1,5 +1,6 @@
 package cal.example.TiendaElectrodomesticos.service;
 
+import cal.example.TiendaElectrodomesticos.model.ControlRemoto;
 import cal.example.TiendaElectrodomesticos.model.Electrodomestico;
 import cal.example.TiendaElectrodomesticos.model.Televisor;
 import org.springframework.stereotype.Service;
@@ -14,7 +15,7 @@ public class ServiceElectrodomestico {
 
     private static ServiceElectrodomestico serviceElectrodomestico;
     private List<Electrodomestico> electrodomesticos = new ArrayList<>();
-
+    private List<ControlRemoto> controles = new ArrayList<>();
     private ServiceElectrodomestico(){}
 
 
@@ -143,8 +144,131 @@ public class ServiceElectrodomestico {
         return filtrados;
     }
 
+    public ControlRemoto addControlRemoto(ControlRemoto c) {
+        for (ControlRemoto existente : controles) {
+            if (existente.getCodigo() == c.getCodigo()) {
+                throw new IllegalArgumentException("Ya existe un control con el código: " + c.getCodigo());
+            }
+        }
+        controles.add(c);
+        return c;
+    }
 
+    public List<ControlRemoto> listControles() {
+        return controles;
+    }
 
+    public ControlRemoto buscarControlRemoto(int codigo) {
+        for (ControlRemoto c : controles) {
+            if (c.getCodigo() == codigo) {
+                return c;
+            }
+        }
+        return null;
+    }
 
+    public boolean deleteControlRemoto(int codigo) {
+        ControlRemoto c = buscarControlRemoto(codigo);
+        if (c != null) {
+            controles.remove(c);
+            return true;
+        }
+        return false;
+    }
 
+    public boolean putControlRemoto(
+            int codigo,
+            String nombre,
+            double alcance,
+            String marca,
+            LocalDateTime fechaVenta
+    ) {
+        for (ControlRemoto c : controles) {
+            if (c.getCodigo() == codigo) {
+                c.setNombre(nombre);
+                c.setAlcance(alcance);
+                c.setMarca(marca);
+                c.setFechaVenta(fechaVenta);
+                return true;
+            }
+        }
+        return false;
+    }
+
+    public List<String> getMarcasControles() {
+        List<String> marcas = new ArrayList<>();
+        for (ControlRemoto c : controles) {
+            if (c.getMarca() != null) {
+                String normalizada = Normalizer.normalize(c.getMarca(), Normalizer.Form.NFD)
+                        .replaceAll("\\p{M}", "")
+                        .toLowerCase();
+                if (marcas.stream().noneMatch(m -> m.equalsIgnoreCase(normalizada))) {
+                    marcas.add(c.getMarca());
+                }
+            }
+        }
+        return marcas;
+    }
+
+    public List<ControlRemoto> filtrarControlesPorMarca(String marcaBuscada) {
+        List<ControlRemoto> filtrados = new ArrayList<>();
+
+        String normalizadaBuscada = Normalizer.normalize(marcaBuscada, Normalizer.Form.NFD)
+                .replaceAll("\\p{M}", "")
+                .toLowerCase();
+
+        for (ControlRemoto c : controles) {
+            String normalizada = Normalizer.normalize(c.getMarca(), Normalizer.Form.NFD)
+                    .replaceAll("\\p{M}", "")
+                    .toLowerCase();
+
+            if (normalizada.equals(normalizadaBuscada)) {
+                filtrados.add(c);
+            }
+        }
+
+        return filtrados;
+    }
+
+    public boolean asignarControlATelevisor(int codigoTelevisor, int codigoControl) {
+        // Buscar televisor
+        Electrodomestico e = buscarElectrodomestico(codigoTelevisor);
+        if (e == null || !(e instanceof Televisor)) {
+            throw new IllegalArgumentException("No existe un televisor con el código " + codigoTelevisor);
+        }
+
+        Televisor tv = (Televisor) e;
+
+        // Verificar si ya tiene un control asignado
+        if (tv.getControlRemoto() != null) {
+            throw new IllegalArgumentException("El televisor ya tiene un control remoto asignado.");
+        }
+
+        // Buscar control remoto
+        ControlRemoto control = buscarControlRemoto(codigoControl);
+        if (control == null) {
+            throw new IllegalArgumentException("No existe un control remoto con el código " + codigoControl);
+        }
+
+        // Verificar si el control ya está vinculado
+        if (control.getTelevisor() != null) {
+            throw new IllegalArgumentException("El control remoto ya está vinculado a otro televisor.");
+        }
+
+        // Asignar vínculos
+        tv.setControlRemoto(control);
+        control.setTelevisor(tv);
+
+        return true;
+    }
+
+    public List<ControlRemoto> listControlesDisponibles() {
+        List<ControlRemoto> disponibles = new ArrayList<>();
+        for (ControlRemoto c : controles) {
+            if (c.getTelevisor() == null) {
+                disponibles.add(c);
+            }
+        }
+        return disponibles;
+    }
 }
