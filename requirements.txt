@@ -1,0 +1,10 @@
+//Instalar NodeJs
+
+
+cd tienda-electro-frontend
+npm install
+npm install vue-router
+
+
+Abrir Proyecto
+npm run dev
