@@ -1,0 +1,94 @@
+E:\DAE2025B\Sept18\POCClienteEmpleado\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\POCClienteEmpleado.exe.config
+E:\DAE2025B\Sept18\POCClienteEmpleado\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\POCClienteEmpleado.exe
+E:\DAE2025B\Sept18\POCClienteEmpleado\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\POCClienteEmpleado.pdb
+E:\DAE2025B\Sept18\POCClienteEmpleado\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.csproj.AssemblyReference.cache
+E:\DAE2025B\Sept18\POCClienteEmpleado\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.GUIEmpleado.resources
+E:\DAE2025B\Sept18\POCClienteEmpleado\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.Properties.Resources.resources
+E:\DAE2025B\Sept18\POCClienteEmpleado\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.csproj.GenerateResource.cache
+E:\DAE2025B\Sept18\POCClienteEmpleado\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.csproj.CoreCompileInputs.cache
+E:\DAE2025B\Sept18\POCClienteEmpleado\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.exe
+E:\DAE2025B\Sept18\POCClienteEmpleado\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.pdb
+E:\DAE2025B\Sept18\POCClienteEmpleado\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\DAE2025B\Sept18\POCClienteEmpleado\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\RestSharp.dll
+E:\DAE2025B\Sept18\POCClienteEmpleado\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Buffers.dll
+E:\DAE2025B\Sept18\POCClienteEmpleado\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Memory.dll
+E:\DAE2025B\Sept18\POCClienteEmpleado\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Numerics.Vectors.dll
+E:\DAE2025B\Sept18\POCClienteEmpleado\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\DAE2025B\Sept18\POCClienteEmpleado\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Text.Encodings.Web.dll
+E:\DAE2025B\Sept18\POCClienteEmpleado\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Text.Json.dll
+E:\DAE2025B\Sept18\POCClienteEmpleado\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\DAE2025B\Sept18\POCClienteEmpleado\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.ValueTuple.dll
+E:\DAE2025B\Sept18\POCClienteEmpleado\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\DAE2025B\Sept18\POCClienteEmpleado\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\RestSharp.xml
+E:\DAE2025B\Sept18\POCClienteEmpleado\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Buffers.xml
+E:\DAE2025B\Sept18\POCClienteEmpleado\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Memory.xml
+E:\DAE2025B\Sept18\POCClienteEmpleado\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Numerics.Vectors.xml
+E:\DAE2025B\Sept18\POCClienteEmpleado\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\DAE2025B\Sept18\POCClienteEmpleado\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Text.Encodings.Web.xml
+E:\DAE2025B\Sept18\POCClienteEmpleado\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Text.Json.xml
+E:\DAE2025B\Sept18\POCClienteEmpleado\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\DAE2025B\Sept18\POCClienteEmpleado\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.ValueTuple.xml
+E:\DAE2025B\Sept18\POCClienteEmpleado\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClien.68FC81C0.Up2Date
+E:\DAE2025B\Sep 23\POCClienteEmpleadoV2\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\POCClienteEmpleado.exe.config
+E:\DAE2025B\Sep 23\POCClienteEmpleadoV2\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\POCClienteEmpleado.exe
+E:\DAE2025B\Sep 23\POCClienteEmpleadoV2\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\POCClienteEmpleado.pdb
+E:\DAE2025B\Sep 23\POCClienteEmpleadoV2\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\DAE2025B\Sep 23\POCClienteEmpleadoV2\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\RestSharp.dll
+E:\DAE2025B\Sep 23\POCClienteEmpleadoV2\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Buffers.dll
+E:\DAE2025B\Sep 23\POCClienteEmpleadoV2\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Memory.dll
+E:\DAE2025B\Sep 23\POCClienteEmpleadoV2\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Numerics.Vectors.dll
+E:\DAE2025B\Sep 23\POCClienteEmpleadoV2\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\DAE2025B\Sep 23\POCClienteEmpleadoV2\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Text.Encodings.Web.dll
+E:\DAE2025B\Sep 23\POCClienteEmpleadoV2\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Text.Json.dll
+E:\DAE2025B\Sep 23\POCClienteEmpleadoV2\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\DAE2025B\Sep 23\POCClienteEmpleadoV2\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.ValueTuple.dll
+E:\DAE2025B\Sep 23\POCClienteEmpleadoV2\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\DAE2025B\Sep 23\POCClienteEmpleadoV2\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\RestSharp.xml
+E:\DAE2025B\Sep 23\POCClienteEmpleadoV2\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Buffers.xml
+E:\DAE2025B\Sep 23\POCClienteEmpleadoV2\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Memory.xml
+E:\DAE2025B\Sep 23\POCClienteEmpleadoV2\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Numerics.Vectors.xml
+E:\DAE2025B\Sep 23\POCClienteEmpleadoV2\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\DAE2025B\Sep 23\POCClienteEmpleadoV2\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Text.Encodings.Web.xml
+E:\DAE2025B\Sep 23\POCClienteEmpleadoV2\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Text.Json.xml
+E:\DAE2025B\Sep 23\POCClienteEmpleadoV2\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\DAE2025B\Sep 23\POCClienteEmpleadoV2\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.ValueTuple.xml
+E:\DAE2025B\Sep 23\POCClienteEmpleadoV2\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.csproj.AssemblyReference.cache
+E:\DAE2025B\Sep 23\POCClienteEmpleadoV2\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.GUIEmpleado.resources
+E:\DAE2025B\Sep 23\POCClienteEmpleadoV2\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.Properties.Resources.resources
+E:\DAE2025B\Sep 23\POCClienteEmpleadoV2\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.csproj.GenerateResource.cache
+E:\DAE2025B\Sep 23\POCClienteEmpleadoV2\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.csproj.CoreCompileInputs.cache
+E:\DAE2025B\Sep 23\POCClienteEmpleadoV2\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClien.68FC81C0.Up2Date
+E:\DAE2025B\Sep 23\POCClienteEmpleadoV2\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.exe
+E:\DAE2025B\Sep 23\POCClienteEmpleadoV2\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.pdb
+C:\Users\migue\OneDrive\Escritorio\POCClienteEmpleadoV2\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\POCClienteEmpleado.exe.config
+C:\Users\migue\OneDrive\Escritorio\POCClienteEmpleadoV2\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\POCClienteEmpleado.exe
+C:\Users\migue\OneDrive\Escritorio\POCClienteEmpleadoV2\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\POCClienteEmpleado.pdb
+C:\Users\migue\OneDrive\Escritorio\POCClienteEmpleadoV2\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\migue\OneDrive\Escritorio\POCClienteEmpleadoV2\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\RestSharp.dll
+C:\Users\migue\OneDrive\Escritorio\POCClienteEmpleadoV2\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Buffers.dll
+C:\Users\migue\OneDrive\Escritorio\POCClienteEmpleadoV2\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Memory.dll
+C:\Users\migue\OneDrive\Escritorio\POCClienteEmpleadoV2\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\migue\OneDrive\Escritorio\POCClienteEmpleadoV2\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\migue\OneDrive\Escritorio\POCClienteEmpleadoV2\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\migue\OneDrive\Escritorio\POCClienteEmpleadoV2\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Text.Json.dll
+C:\Users\migue\OneDrive\Escritorio\POCClienteEmpleadoV2\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\migue\OneDrive\Escritorio\POCClienteEmpleadoV2\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.ValueTuple.dll
+C:\Users\migue\OneDrive\Escritorio\POCClienteEmpleadoV2\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\migue\OneDrive\Escritorio\POCClienteEmpleadoV2\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\RestSharp.xml
+C:\Users\migue\OneDrive\Escritorio\POCClienteEmpleadoV2\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Buffers.xml
+C:\Users\migue\OneDrive\Escritorio\POCClienteEmpleadoV2\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Memory.xml
+C:\Users\migue\OneDrive\Escritorio\POCClienteEmpleadoV2\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\migue\OneDrive\Escritorio\POCClienteEmpleadoV2\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\migue\OneDrive\Escritorio\POCClienteEmpleadoV2\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\migue\OneDrive\Escritorio\POCClienteEmpleadoV2\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Text.Json.xml
+C:\Users\migue\OneDrive\Escritorio\POCClienteEmpleadoV2\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\migue\OneDrive\Escritorio\POCClienteEmpleadoV2\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.ValueTuple.xml
+C:\Users\migue\OneDrive\Escritorio\POCClienteEmpleadoV2\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.csproj.AssemblyReference.cache
+C:\Users\migue\OneDrive\Escritorio\POCClienteEmpleadoV2\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.exe.config
+C:\Users\migue\OneDrive\Escritorio\POCClienteEmpleadoV2\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.GUIEmpleado.resources
+C:\Users\migue\OneDrive\Escritorio\POCClienteEmpleadoV2\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.Properties.Resources.resources
+C:\Users\migue\OneDrive\Escritorio\POCClienteEmpleadoV2\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.csproj.GenerateResource.cache
+C:\Users\migue\OneDrive\Escritorio\POCClienteEmpleadoV2\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.csproj.CoreCompileInputs.cache
+C:\Users\migue\OneDrive\Escritorio\POCClienteEmpleadoV2\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClien.68FC81C0.Up2Date
+C:\Users\migue\OneDrive\Escritorio\POCClienteEmpleadoV2\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.exe
+C:\Users\migue\OneDrive\Escritorio\POCClienteEmpleadoV2\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.pdb

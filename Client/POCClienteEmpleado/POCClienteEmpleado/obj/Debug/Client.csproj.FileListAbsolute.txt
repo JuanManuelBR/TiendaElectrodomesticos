@@ -1,0 +1,254 @@
+C:\Users\migue\OneDrive\Escritorio\POCClienteEmpleado\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\POCClienteEmpleado.exe.config
+C:\Users\migue\OneDrive\Escritorio\POCClienteEmpleado\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\POCClienteEmpleado.exe
+C:\Users\migue\OneDrive\Escritorio\POCClienteEmpleado\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\POCClienteEmpleado.pdb
+C:\Users\migue\OneDrive\Escritorio\POCClienteEmpleado\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\migue\OneDrive\Escritorio\POCClienteEmpleado\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\RestSharp.dll
+C:\Users\migue\OneDrive\Escritorio\POCClienteEmpleado\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Buffers.dll
+C:\Users\migue\OneDrive\Escritorio\POCClienteEmpleado\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Memory.dll
+C:\Users\migue\OneDrive\Escritorio\POCClienteEmpleado\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\migue\OneDrive\Escritorio\POCClienteEmpleado\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\migue\OneDrive\Escritorio\POCClienteEmpleado\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\migue\OneDrive\Escritorio\POCClienteEmpleado\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Text.Json.dll
+C:\Users\migue\OneDrive\Escritorio\POCClienteEmpleado\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\migue\OneDrive\Escritorio\POCClienteEmpleado\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.ValueTuple.dll
+C:\Users\migue\OneDrive\Escritorio\POCClienteEmpleado\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\migue\OneDrive\Escritorio\POCClienteEmpleado\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\RestSharp.xml
+C:\Users\migue\OneDrive\Escritorio\POCClienteEmpleado\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Buffers.xml
+C:\Users\migue\OneDrive\Escritorio\POCClienteEmpleado\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Memory.xml
+C:\Users\migue\OneDrive\Escritorio\POCClienteEmpleado\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\migue\OneDrive\Escritorio\POCClienteEmpleado\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\migue\OneDrive\Escritorio\POCClienteEmpleado\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\migue\OneDrive\Escritorio\POCClienteEmpleado\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Text.Json.xml
+C:\Users\migue\OneDrive\Escritorio\POCClienteEmpleado\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\migue\OneDrive\Escritorio\POCClienteEmpleado\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.ValueTuple.xml
+C:\Users\migue\OneDrive\Escritorio\POCClienteEmpleado\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\migue\OneDrive\Escritorio\POCClienteEmpleado\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.exe.config
+C:\Users\migue\OneDrive\Escritorio\POCClienteEmpleado\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.GUIEditTelevisor.resources
+C:\Users\migue\OneDrive\Escritorio\POCClienteEmpleado\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.GUIDeleteTelevisor.resources
+C:\Users\migue\OneDrive\Escritorio\POCClienteEmpleado\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.com.mycompany.tiendaelectrodomestico.view.GUIFiltrarTelevisor.resources
+C:\Users\migue\OneDrive\Escritorio\POCClienteEmpleado\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.GUISearchTelevisor.resources
+C:\Users\migue\OneDrive\Escritorio\POCClienteEmpleado\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.GUIAddTelevisor.resources
+C:\Users\migue\OneDrive\Escritorio\POCClienteEmpleado\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.com.mycompany.tiendaelectrodomestico.view.GUIListTelevisor.resources
+C:\Users\migue\OneDrive\Escritorio\POCClienteEmpleado\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCTiendaElectrodomestico.GUIPrincipal.resources
+C:\Users\migue\OneDrive\Escritorio\POCClienteEmpleado\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.Properties.Resources.resources
+C:\Users\migue\OneDrive\Escritorio\POCClienteEmpleado\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\migue\OneDrive\Escritorio\POCClienteEmpleado\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\migue\OneDrive\Escritorio\POCClienteEmpleado\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\Client.csproj.Up2Date
+C:\Users\migue\OneDrive\Escritorio\POCClienteEmpleado\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.exe
+C:\Users\migue\OneDrive\Escritorio\POCClienteEmpleado\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.pdb
+C:\Users\juanm\OneDrive\Desktop\TiendaElectrodomesticos-main\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\POCClienteEmpleado.exe.config
+C:\Users\juanm\OneDrive\Desktop\TiendaElectrodomesticos-main\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\POCClienteEmpleado.exe
+C:\Users\juanm\OneDrive\Desktop\TiendaElectrodomesticos-main\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\POCClienteEmpleado.pdb
+C:\Users\juanm\OneDrive\Desktop\TiendaElectrodomesticos-main\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\juanm\OneDrive\Desktop\TiendaElectrodomesticos-main\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\RestSharp.dll
+C:\Users\juanm\OneDrive\Desktop\TiendaElectrodomesticos-main\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Buffers.dll
+C:\Users\juanm\OneDrive\Desktop\TiendaElectrodomesticos-main\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Memory.dll
+C:\Users\juanm\OneDrive\Desktop\TiendaElectrodomesticos-main\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\juanm\OneDrive\Desktop\TiendaElectrodomesticos-main\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\juanm\OneDrive\Desktop\TiendaElectrodomesticos-main\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\juanm\OneDrive\Desktop\TiendaElectrodomesticos-main\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Text.Json.dll
+C:\Users\juanm\OneDrive\Desktop\TiendaElectrodomesticos-main\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\juanm\OneDrive\Desktop\TiendaElectrodomesticos-main\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.ValueTuple.dll
+C:\Users\juanm\OneDrive\Desktop\TiendaElectrodomesticos-main\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\juanm\OneDrive\Desktop\TiendaElectrodomesticos-main\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\RestSharp.xml
+C:\Users\juanm\OneDrive\Desktop\TiendaElectrodomesticos-main\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Buffers.xml
+C:\Users\juanm\OneDrive\Desktop\TiendaElectrodomesticos-main\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Memory.xml
+C:\Users\juanm\OneDrive\Desktop\TiendaElectrodomesticos-main\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\juanm\OneDrive\Desktop\TiendaElectrodomesticos-main\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\juanm\OneDrive\Desktop\TiendaElectrodomesticos-main\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\juanm\OneDrive\Desktop\TiendaElectrodomesticos-main\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Text.Json.xml
+C:\Users\juanm\OneDrive\Desktop\TiendaElectrodomesticos-main\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\juanm\OneDrive\Desktop\TiendaElectrodomesticos-main\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.ValueTuple.xml
+C:\Users\juanm\OneDrive\Desktop\TiendaElectrodomesticos-main\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\juanm\OneDrive\Desktop\TiendaElectrodomesticos-main\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.exe.config
+C:\Users\juanm\OneDrive\Desktop\TiendaElectrodomesticos-main\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.GUIEditTelevisor.resources
+C:\Users\juanm\OneDrive\Desktop\TiendaElectrodomesticos-main\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.GUIDeleteTelevisor.resources
+C:\Users\juanm\OneDrive\Desktop\TiendaElectrodomesticos-main\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.com.mycompany.tiendaelectrodomestico.view.GUIFiltrarTelevisor.resources
+C:\Users\juanm\OneDrive\Desktop\TiendaElectrodomesticos-main\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.GUISearchTelevisor.resources
+C:\Users\juanm\OneDrive\Desktop\TiendaElectrodomesticos-main\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.GUIAddTelevisor.resources
+C:\Users\juanm\OneDrive\Desktop\TiendaElectrodomesticos-main\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.com.mycompany.tiendaelectrodomestico.view.GUIListTelevisor.resources
+C:\Users\juanm\OneDrive\Desktop\TiendaElectrodomesticos-main\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCTiendaElectrodomestico.GUIPrincipal.resources
+C:\Users\juanm\OneDrive\Desktop\TiendaElectrodomesticos-main\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.Properties.Resources.resources
+C:\Users\juanm\OneDrive\Desktop\TiendaElectrodomesticos-main\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\juanm\OneDrive\Desktop\TiendaElectrodomesticos-main\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\juanm\OneDrive\Desktop\TiendaElectrodomesticos-main\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\Client.csproj.Up2Date
+C:\Users\juanm\OneDrive\Desktop\TiendaElectrodomesticos-main\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.exe
+C:\Users\juanm\OneDrive\Desktop\TiendaElectrodomesticos-main\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.pdb
+C:\Users\juanm\OneDrive\Desktop\TiendaElectrodomesticos-main\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.com.mycompany.tiendaelectrodomestico.view.GUIAddControl.resources
+C:\Users\Miguel\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\POCClienteEmpleado.exe.config
+C:\Users\Miguel\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\POCClienteEmpleado.exe
+C:\Users\Miguel\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\POCClienteEmpleado.pdb
+C:\Users\Miguel\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Miguel\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\RestSharp.dll
+C:\Users\Miguel\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Buffers.dll
+C:\Users\Miguel\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Memory.dll
+C:\Users\Miguel\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Miguel\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Miguel\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Miguel\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Text.Json.dll
+C:\Users\Miguel\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Miguel\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.ValueTuple.dll
+C:\Users\Miguel\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Miguel\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\RestSharp.xml
+C:\Users\Miguel\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Buffers.xml
+C:\Users\Miguel\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Memory.xml
+C:\Users\Miguel\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Miguel\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Miguel\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Miguel\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Text.Json.xml
+C:\Users\Miguel\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Miguel\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.ValueTuple.xml
+C:\Users\Miguel\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Miguel\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.GUIEditTelevisor.resources
+C:\Users\Miguel\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.GUIDeleteTelevisor.resources
+C:\Users\Miguel\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.com.mycompany.tiendaelectrodomestico.view.GUIFiltrarTelevisor.resources
+C:\Users\Miguel\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.GUISearchTelevisor.resources
+C:\Users\Miguel\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.GUIAddTelevisor.resources
+C:\Users\Miguel\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.com.mycompany.tiendaelectrodomestico.view.GUIListTelevisor.resources
+C:\Users\Miguel\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCTiendaElectrodomestico.GUIPrincipal.resources
+C:\Users\Miguel\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.Properties.Resources.resources
+C:\Users\Miguel\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Miguel\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\Client.csproj.Up2Date
+C:\Users\Miguel\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.exe
+C:\Users\Miguel\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.pdb
+C:\Users\Miguel\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.GUIAddControl.resources
+C:\Users\Miguel\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.GUIDeleteControl.resources
+C:\Users\Miguel\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.GUIEditControl.resources
+C:\Users\Miguel\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.com.mycompany.tiendaelectrodomestico.view.GUIListControl.resources
+C:\Users\Miguel\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.GUISearchControl.resources
+C:\Users\Miguel\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.com.mycompany.tiendaelectrodomestico.view.GUIFiltrarDisponibilidadControl.resources
+C:\Users\Miguel\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.com.mycompany.tiendaelectrodomestico.view.GUIFiltrarMarcaControl.resources
+C:\Users\juanm\OneDrive\Desktop\Nueva carpeta (3)\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\POCClienteEmpleado.exe.config
+C:\Users\juanm\OneDrive\Desktop\Nueva carpeta (3)\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\POCClienteEmpleado.exe
+C:\Users\juanm\OneDrive\Desktop\Nueva carpeta (3)\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\POCClienteEmpleado.pdb
+C:\Users\juanm\OneDrive\Desktop\Nueva carpeta (3)\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\juanm\OneDrive\Desktop\Nueva carpeta (3)\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\RestSharp.dll
+C:\Users\juanm\OneDrive\Desktop\Nueva carpeta (3)\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Buffers.dll
+C:\Users\juanm\OneDrive\Desktop\Nueva carpeta (3)\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Memory.dll
+C:\Users\juanm\OneDrive\Desktop\Nueva carpeta (3)\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\juanm\OneDrive\Desktop\Nueva carpeta (3)\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\juanm\OneDrive\Desktop\Nueva carpeta (3)\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\juanm\OneDrive\Desktop\Nueva carpeta (3)\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Text.Json.dll
+C:\Users\juanm\OneDrive\Desktop\Nueva carpeta (3)\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\juanm\OneDrive\Desktop\Nueva carpeta (3)\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.ValueTuple.dll
+C:\Users\juanm\OneDrive\Desktop\Nueva carpeta (3)\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\juanm\OneDrive\Desktop\Nueva carpeta (3)\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\RestSharp.xml
+C:\Users\juanm\OneDrive\Desktop\Nueva carpeta (3)\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Buffers.xml
+C:\Users\juanm\OneDrive\Desktop\Nueva carpeta (3)\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Memory.xml
+C:\Users\juanm\OneDrive\Desktop\Nueva carpeta (3)\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\juanm\OneDrive\Desktop\Nueva carpeta (3)\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\juanm\OneDrive\Desktop\Nueva carpeta (3)\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\juanm\OneDrive\Desktop\Nueva carpeta (3)\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Text.Json.xml
+C:\Users\juanm\OneDrive\Desktop\Nueva carpeta (3)\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\juanm\OneDrive\Desktop\Nueva carpeta (3)\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.ValueTuple.xml
+C:\Users\juanm\OneDrive\Desktop\Nueva carpeta (3)\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\juanm\OneDrive\Desktop\Nueva carpeta (3)\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.exe.config
+C:\Users\juanm\OneDrive\Desktop\Nueva carpeta (3)\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.GUIAddControl.resources
+C:\Users\juanm\OneDrive\Desktop\Nueva carpeta (3)\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.GUIDeleteControl.resources
+C:\Users\juanm\OneDrive\Desktop\Nueva carpeta (3)\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.GUIEditControl.resources
+C:\Users\juanm\OneDrive\Desktop\Nueva carpeta (3)\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.GUIEditTelevisor.resources
+C:\Users\juanm\OneDrive\Desktop\Nueva carpeta (3)\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.GUIDeleteTelevisor.resources
+C:\Users\juanm\OneDrive\Desktop\Nueva carpeta (3)\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.com.mycompany.tiendaelectrodomestico.view.GUIFiltrarDisponibilidadControl.resources
+C:\Users\juanm\OneDrive\Desktop\Nueva carpeta (3)\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.com.mycompany.tiendaelectrodomestico.view.GUIFiltrarMarcaControl.resources
+C:\Users\juanm\OneDrive\Desktop\Nueva carpeta (3)\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.com.mycompany.tiendaelectrodomestico.view.GUIFiltrarTelevisor.resources
+C:\Users\juanm\OneDrive\Desktop\Nueva carpeta (3)\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.com.mycompany.tiendaelectrodomestico.view.GUIListControl.resources
+C:\Users\juanm\OneDrive\Desktop\Nueva carpeta (3)\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.GUISearchControl.resources
+C:\Users\juanm\OneDrive\Desktop\Nueva carpeta (3)\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.GUISearchTelevisor.resources
+C:\Users\juanm\OneDrive\Desktop\Nueva carpeta (3)\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.GUIAddTelevisor.resources
+C:\Users\juanm\OneDrive\Desktop\Nueva carpeta (3)\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.com.mycompany.tiendaelectrodomestico.view.GUIListTelevisor.resources
+C:\Users\juanm\OneDrive\Desktop\Nueva carpeta (3)\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCTiendaElectrodomestico.GUIPrincipal.resources
+C:\Users\juanm\OneDrive\Desktop\Nueva carpeta (3)\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.Properties.Resources.resources
+C:\Users\juanm\OneDrive\Desktop\Nueva carpeta (3)\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\juanm\OneDrive\Desktop\Nueva carpeta (3)\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\juanm\OneDrive\Desktop\Nueva carpeta (3)\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\Client.csproj.Up2Date
+C:\Users\juanm\OneDrive\Desktop\Nueva carpeta (3)\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.exe
+C:\Users\juanm\OneDrive\Desktop\Nueva carpeta (3)\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.pdb
+C:\Users\Miguel\Desktop\Tienda\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\POCClienteEmpleado.exe.config
+C:\Users\Miguel\Desktop\Tienda\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\POCClienteEmpleado.exe
+C:\Users\Miguel\Desktop\Tienda\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\POCClienteEmpleado.pdb
+C:\Users\Miguel\Desktop\Tienda\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Miguel\Desktop\Tienda\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\RestSharp.dll
+C:\Users\Miguel\Desktop\Tienda\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Buffers.dll
+C:\Users\Miguel\Desktop\Tienda\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Memory.dll
+C:\Users\Miguel\Desktop\Tienda\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Miguel\Desktop\Tienda\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Miguel\Desktop\Tienda\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Miguel\Desktop\Tienda\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Text.Json.dll
+C:\Users\Miguel\Desktop\Tienda\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Miguel\Desktop\Tienda\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.ValueTuple.dll
+C:\Users\Miguel\Desktop\Tienda\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Miguel\Desktop\Tienda\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\RestSharp.xml
+C:\Users\Miguel\Desktop\Tienda\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Buffers.xml
+C:\Users\Miguel\Desktop\Tienda\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Memory.xml
+C:\Users\Miguel\Desktop\Tienda\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Miguel\Desktop\Tienda\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Miguel\Desktop\Tienda\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Miguel\Desktop\Tienda\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Text.Json.xml
+C:\Users\Miguel\Desktop\Tienda\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Miguel\Desktop\Tienda\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.ValueTuple.xml
+C:\Users\Miguel\Desktop\Tienda\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Miguel\Desktop\Tienda\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.GUIAddControl.resources
+C:\Users\Miguel\Desktop\Tienda\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.GUIDeleteControl.resources
+C:\Users\Miguel\Desktop\Tienda\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.GUIEditControl.resources
+C:\Users\Miguel\Desktop\Tienda\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.GUIEditTelevisor.resources
+C:\Users\Miguel\Desktop\Tienda\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.GUIDeleteTelevisor.resources
+C:\Users\Miguel\Desktop\Tienda\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.com.mycompany.tiendaelectrodomestico.view.GUIFiltrarDisponibilidadControl.resources
+C:\Users\Miguel\Desktop\Tienda\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.com.mycompany.tiendaelectrodomestico.view.GUIFiltrarMarcaControl.resources
+C:\Users\Miguel\Desktop\Tienda\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.com.mycompany.tiendaelectrodomestico.view.GUIFiltrarTelevisor.resources
+C:\Users\Miguel\Desktop\Tienda\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.com.mycompany.tiendaelectrodomestico.view.GUIListControl.resources
+C:\Users\Miguel\Desktop\Tienda\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.GUISearchControl.resources
+C:\Users\Miguel\Desktop\Tienda\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.GUISearchTelevisor.resources
+C:\Users\Miguel\Desktop\Tienda\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.GUIAddTelevisor.resources
+C:\Users\Miguel\Desktop\Tienda\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.com.mycompany.tiendaelectrodomestico.view.GUIListTelevisor.resources
+C:\Users\Miguel\Desktop\Tienda\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCTiendaElectrodomestico.GUIPrincipal.resources
+C:\Users\Miguel\Desktop\Tienda\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.Properties.Resources.resources
+C:\Users\Miguel\Desktop\Tienda\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Miguel\Desktop\Tienda\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\Tienda\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\Client.csproj.Up2Date
+C:\Users\Miguel\Desktop\Tienda\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.exe
+C:\Users\Miguel\Desktop\Tienda\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.pdb
+C:\Users\juanm\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\POCClienteEmpleado.exe.config
+C:\Users\juanm\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\POCClienteEmpleado.exe
+C:\Users\juanm\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\POCClienteEmpleado.pdb
+C:\Users\juanm\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\juanm\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\RestSharp.dll
+C:\Users\juanm\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Buffers.dll
+C:\Users\juanm\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Memory.dll
+C:\Users\juanm\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\juanm\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\juanm\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\juanm\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Text.Json.dll
+C:\Users\juanm\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\juanm\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.ValueTuple.dll
+C:\Users\juanm\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\juanm\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\RestSharp.xml
+C:\Users\juanm\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Buffers.xml
+C:\Users\juanm\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Memory.xml
+C:\Users\juanm\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\juanm\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\juanm\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\juanm\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Text.Json.xml
+C:\Users\juanm\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\juanm\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\bin\Debug\System.ValueTuple.xml
+C:\Users\juanm\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\juanm\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.GUIAddControl.resources
+C:\Users\juanm\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.GUIDeleteControl.resources
+C:\Users\juanm\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.GUIEditControl.resources
+C:\Users\juanm\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.GUIEditTelevisor.resources
+C:\Users\juanm\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.GUIDeleteTelevisor.resources
+C:\Users\juanm\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.com.mycompany.tiendaelectrodomestico.view.GUIFiltrarDisponibilidadControl.resources
+C:\Users\juanm\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.com.mycompany.tiendaelectrodomestico.view.GUIFiltrarMarcaControl.resources
+C:\Users\juanm\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.com.mycompany.tiendaelectrodomestico.view.GUIFiltrarTelevisor.resources
+C:\Users\juanm\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.com.mycompany.tiendaelectrodomestico.view.GUIListControl.resources
+C:\Users\juanm\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.GUISearchControl.resources
+C:\Users\juanm\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.GUISearchTelevisor.resources
+C:\Users\juanm\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.GUIAddTelevisor.resources
+C:\Users\juanm\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.com.mycompany.tiendaelectrodomestico.view.GUIListTelevisor.resources
+C:\Users\juanm\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCTiendaElectrodomestico.GUIPrincipal.resources
+C:\Users\juanm\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.Properties.Resources.resources
+C:\Users\juanm\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\juanm\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\juanm\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\Client.csproj.Up2Date
+C:\Users\juanm\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.exe
+C:\Users\juanm\Desktop\Client\Client\POCClienteEmpleado\POCClienteEmpleado\obj\Debug\POCClienteEmpleado.pdb
