@@ -1,0 +1,482 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juanm\\OneDrive\\Desktop\\Nueva carpeta (3)\\Client\\Client\\POCClienteEmpleado\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{661959E0-AE67-4C6F-A156-3A96E766A74C}|POCClienteEmpleado\\Client.csproj|c:\\users\\juanm\\onedrive\\desktop\\nueva carpeta (3)\\client\\client\\pocclienteempleado\\pocclienteempleado\\com.mycompany.tiendaelectrodomestico.view\\guitelevisor\\guisearchtelevisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661959E0-AE67-4C6F-A156-3A96E766A74C}|POCClienteEmpleado\\Client.csproj|solutionrelative:pocclienteempleado\\com.mycompany.tiendaelectrodomestico.view\\guitelevisor\\guisearchtelevisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661959E0-AE67-4C6F-A156-3A96E766A74C}|POCClienteEmpleado\\Client.csproj|c:\\users\\juanm\\onedrive\\desktop\\nueva carpeta (3)\\client\\client\\pocclienteempleado\\pocclienteempleado\\com.mycompany.tiendaelectrodomestico.view\\guitelevisor\\guisearchtelevisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{661959E0-AE67-4C6F-A156-3A96E766A74C}|POCClienteEmpleado\\Client.csproj|solutionrelative:pocclienteempleado\\com.mycompany.tiendaelectrodomestico.view\\guitelevisor\\guisearchtelevisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661959E0-AE67-4C6F-A156-3A96E766A74C}|POCClienteEmpleado\\Client.csproj|c:\\users\\juanm\\onedrive\\desktop\\nueva carpeta (3)\\client\\client\\pocclienteempleado\\pocclienteempleado\\com.mycompany.tiendaelectrodomestico.view\\guitelevisor\\guilisttelevisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661959E0-AE67-4C6F-A156-3A96E766A74C}|POCClienteEmpleado\\Client.csproj|solutionrelative:pocclienteempleado\\com.mycompany.tiendaelectrodomestico.view\\guitelevisor\\guilisttelevisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661959E0-AE67-4C6F-A156-3A96E766A74C}|POCClienteEmpleado\\Client.csproj|c:\\users\\juanm\\onedrive\\desktop\\nueva carpeta (3)\\client\\client\\pocclienteempleado\\pocclienteempleado\\com.mycompany.tiendaelectrodomestico.view\\guitelevisor\\guilisttelevisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{661959E0-AE67-4C6F-A156-3A96E766A74C}|POCClienteEmpleado\\Client.csproj|solutionrelative:pocclienteempleado\\com.mycompany.tiendaelectrodomestico.view\\guitelevisor\\guilisttelevisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661959E0-AE67-4C6F-A156-3A96E766A74C}|POCClienteEmpleado\\Client.csproj|c:\\users\\juanm\\onedrive\\desktop\\nueva carpeta (3)\\client\\client\\pocclienteempleado\\pocclienteempleado\\com.mycompany.tiendaelectrodomestico.view\\guitelevisor\\guifiltrartelevisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661959E0-AE67-4C6F-A156-3A96E766A74C}|POCClienteEmpleado\\Client.csproj|solutionrelative:pocclienteempleado\\com.mycompany.tiendaelectrodomestico.view\\guitelevisor\\guifiltrartelevisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661959E0-AE67-4C6F-A156-3A96E766A74C}|POCClienteEmpleado\\Client.csproj|c:\\users\\juanm\\onedrive\\desktop\\nueva carpeta (3)\\client\\client\\pocclienteempleado\\pocclienteempleado\\com.mycompany.tiendaelectrodomestico.view\\guitelevisor\\guifiltrartelevisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{661959E0-AE67-4C6F-A156-3A96E766A74C}|POCClienteEmpleado\\Client.csproj|solutionrelative:pocclienteempleado\\com.mycompany.tiendaelectrodomestico.view\\guitelevisor\\guifiltrartelevisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661959E0-AE67-4C6F-A156-3A96E766A74C}|POCClienteEmpleado\\Client.csproj|c:\\users\\juanm\\onedrive\\desktop\\nueva carpeta (3)\\client\\client\\pocclienteempleado\\pocclienteempleado\\com.mycompany.tiendaelectrodomestico.view\\guitelevisor\\guiedittelevisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661959E0-AE67-4C6F-A156-3A96E766A74C}|POCClienteEmpleado\\Client.csproj|solutionrelative:pocclienteempleado\\com.mycompany.tiendaelectrodomestico.view\\guitelevisor\\guiedittelevisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661959E0-AE67-4C6F-A156-3A96E766A74C}|POCClienteEmpleado\\Client.csproj|c:\\users\\juanm\\onedrive\\desktop\\nueva carpeta (3)\\client\\client\\pocclienteempleado\\pocclienteempleado\\com.mycompany.tiendaelectrodomestico.view\\guitelevisor\\guiedittelevisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{661959E0-AE67-4C6F-A156-3A96E766A74C}|POCClienteEmpleado\\Client.csproj|solutionrelative:pocclienteempleado\\com.mycompany.tiendaelectrodomestico.view\\guitelevisor\\guiedittelevisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661959E0-AE67-4C6F-A156-3A96E766A74C}|POCClienteEmpleado\\Client.csproj|c:\\users\\juanm\\onedrive\\desktop\\nueva carpeta (3)\\client\\client\\pocclienteempleado\\pocclienteempleado\\com.mycompany.tiendaelectrodomestico.view\\guitelevisor\\guideletetelevisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661959E0-AE67-4C6F-A156-3A96E766A74C}|POCClienteEmpleado\\Client.csproj|solutionrelative:pocclienteempleado\\com.mycompany.tiendaelectrodomestico.view\\guitelevisor\\guideletetelevisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661959E0-AE67-4C6F-A156-3A96E766A74C}|POCClienteEmpleado\\Client.csproj|c:\\users\\juanm\\onedrive\\desktop\\nueva carpeta (3)\\client\\client\\pocclienteempleado\\pocclienteempleado\\com.mycompany.tiendaelectrodomestico.view\\guitelevisor\\guideletetelevisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{661959E0-AE67-4C6F-A156-3A96E766A74C}|POCClienteEmpleado\\Client.csproj|solutionrelative:pocclienteempleado\\com.mycompany.tiendaelectrodomestico.view\\guitelevisor\\guideletetelevisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661959E0-AE67-4C6F-A156-3A96E766A74C}|POCClienteEmpleado\\Client.csproj|c:\\users\\juanm\\onedrive\\desktop\\nueva carpeta (3)\\client\\client\\pocclienteempleado\\pocclienteempleado\\com.mycompany.tiendaelectrodomestico.view\\guitelevisor\\guiaddtelevisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661959E0-AE67-4C6F-A156-3A96E766A74C}|POCClienteEmpleado\\Client.csproj|solutionrelative:pocclienteempleado\\com.mycompany.tiendaelectrodomestico.view\\guitelevisor\\guiaddtelevisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661959E0-AE67-4C6F-A156-3A96E766A74C}|POCClienteEmpleado\\Client.csproj|c:\\users\\juanm\\onedrive\\desktop\\nueva carpeta (3)\\client\\client\\pocclienteempleado\\pocclienteempleado\\com.mycompany.tiendaelectrodomestico.view\\guitelevisor\\guiaddtelevisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{661959E0-AE67-4C6F-A156-3A96E766A74C}|POCClienteEmpleado\\Client.csproj|solutionrelative:pocclienteempleado\\com.mycompany.tiendaelectrodomestico.view\\guitelevisor\\guiaddtelevisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661959E0-AE67-4C6F-A156-3A96E766A74C}|POCClienteEmpleado\\Client.csproj|c:\\users\\juanm\\onedrive\\desktop\\nueva carpeta (3)\\client\\client\\pocclienteempleado\\pocclienteempleado\\com.mycompany.tiendaelectrodomestico.view\\guicontrol\\guisearchcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661959E0-AE67-4C6F-A156-3A96E766A74C}|POCClienteEmpleado\\Client.csproj|solutionrelative:pocclienteempleado\\com.mycompany.tiendaelectrodomestico.view\\guicontrol\\guisearchcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661959E0-AE67-4C6F-A156-3A96E766A74C}|POCClienteEmpleado\\Client.csproj|c:\\users\\juanm\\onedrive\\desktop\\nueva carpeta (3)\\client\\client\\pocclienteempleado\\pocclienteempleado\\com.mycompany.tiendaelectrodomestico.view\\guicontrol\\guisearchcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{661959E0-AE67-4C6F-A156-3A96E766A74C}|POCClienteEmpleado\\Client.csproj|solutionrelative:pocclienteempleado\\com.mycompany.tiendaelectrodomestico.view\\guicontrol\\guisearchcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661959E0-AE67-4C6F-A156-3A96E766A74C}|POCClienteEmpleado\\Client.csproj|c:\\users\\juanm\\onedrive\\desktop\\nueva carpeta (3)\\client\\client\\pocclienteempleado\\pocclienteempleado\\com.mycompany.tiendaelectrodomestico.view\\guicontrol\\guilistcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661959E0-AE67-4C6F-A156-3A96E766A74C}|POCClienteEmpleado\\Client.csproj|solutionrelative:pocclienteempleado\\com.mycompany.tiendaelectrodomestico.view\\guicontrol\\guilistcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661959E0-AE67-4C6F-A156-3A96E766A74C}|POCClienteEmpleado\\Client.csproj|c:\\users\\juanm\\onedrive\\desktop\\nueva carpeta (3)\\client\\client\\pocclienteempleado\\pocclienteempleado\\com.mycompany.tiendaelectrodomestico.view\\guicontrol\\guilistcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{661959E0-AE67-4C6F-A156-3A96E766A74C}|POCClienteEmpleado\\Client.csproj|solutionrelative:pocclienteempleado\\com.mycompany.tiendaelectrodomestico.view\\guicontrol\\guilistcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661959E0-AE67-4C6F-A156-3A96E766A74C}|POCClienteEmpleado\\Client.csproj|c:\\users\\juanm\\onedrive\\desktop\\nueva carpeta (3)\\client\\client\\pocclienteempleado\\pocclienteempleado\\com.mycompany.tiendaelectrodomestico.view\\guicontrol\\guifiltrarmarcacontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661959E0-AE67-4C6F-A156-3A96E766A74C}|POCClienteEmpleado\\Client.csproj|solutionrelative:pocclienteempleado\\com.mycompany.tiendaelectrodomestico.view\\guicontrol\\guifiltrarmarcacontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661959E0-AE67-4C6F-A156-3A96E766A74C}|POCClienteEmpleado\\Client.csproj|c:\\users\\juanm\\onedrive\\desktop\\nueva carpeta (3)\\client\\client\\pocclienteempleado\\pocclienteempleado\\com.mycompany.tiendaelectrodomestico.view\\guicontrol\\guifiltrarmarcacontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{661959E0-AE67-4C6F-A156-3A96E766A74C}|POCClienteEmpleado\\Client.csproj|solutionrelative:pocclienteempleado\\com.mycompany.tiendaelectrodomestico.view\\guicontrol\\guifiltrarmarcacontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661959E0-AE67-4C6F-A156-3A96E766A74C}|POCClienteEmpleado\\Client.csproj|c:\\users\\juanm\\onedrive\\desktop\\nueva carpeta (3)\\client\\client\\pocclienteempleado\\pocclienteempleado\\com.mycompany.tiendaelectrodomestico.view\\guicontrol\\guifiltrardisponibilidadcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661959E0-AE67-4C6F-A156-3A96E766A74C}|POCClienteEmpleado\\Client.csproj|solutionrelative:pocclienteempleado\\com.mycompany.tiendaelectrodomestico.view\\guicontrol\\guifiltrardisponibilidadcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661959E0-AE67-4C6F-A156-3A96E766A74C}|POCClienteEmpleado\\Client.csproj|c:\\users\\juanm\\onedrive\\desktop\\nueva carpeta (3)\\client\\client\\pocclienteempleado\\pocclienteempleado\\com.mycompany.tiendaelectrodomestico.view\\guicontrol\\guifiltrardisponibilidadcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{661959E0-AE67-4C6F-A156-3A96E766A74C}|POCClienteEmpleado\\Client.csproj|solutionrelative:pocclienteempleado\\com.mycompany.tiendaelectrodomestico.view\\guicontrol\\guifiltrardisponibilidadcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661959E0-AE67-4C6F-A156-3A96E766A74C}|POCClienteEmpleado\\Client.csproj|c:\\users\\juanm\\onedrive\\desktop\\nueva carpeta (3)\\client\\client\\pocclienteempleado\\pocclienteempleado\\com.mycompany.tiendaelectrodomestico.view\\guicontrol\\guieditcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661959E0-AE67-4C6F-A156-3A96E766A74C}|POCClienteEmpleado\\Client.csproj|solutionrelative:pocclienteempleado\\com.mycompany.tiendaelectrodomestico.view\\guicontrol\\guieditcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661959E0-AE67-4C6F-A156-3A96E766A74C}|POCClienteEmpleado\\Client.csproj|c:\\users\\juanm\\onedrive\\desktop\\nueva carpeta (3)\\client\\client\\pocclienteempleado\\pocclienteempleado\\com.mycompany.tiendaelectrodomestico.view\\guicontrol\\guieditcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{661959E0-AE67-4C6F-A156-3A96E766A74C}|POCClienteEmpleado\\Client.csproj|solutionrelative:pocclienteempleado\\com.mycompany.tiendaelectrodomestico.view\\guicontrol\\guieditcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661959E0-AE67-4C6F-A156-3A96E766A74C}|POCClienteEmpleado\\Client.csproj|c:\\users\\juanm\\onedrive\\desktop\\nueva carpeta (3)\\client\\client\\pocclienteempleado\\pocclienteempleado\\com.mycompany.tiendaelectrodomestico.view\\guicontrol\\guideletecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661959E0-AE67-4C6F-A156-3A96E766A74C}|POCClienteEmpleado\\Client.csproj|solutionrelative:pocclienteempleado\\com.mycompany.tiendaelectrodomestico.view\\guicontrol\\guideletecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661959E0-AE67-4C6F-A156-3A96E766A74C}|POCClienteEmpleado\\Client.csproj|c:\\users\\juanm\\onedrive\\desktop\\nueva carpeta (3)\\client\\client\\pocclienteempleado\\pocclienteempleado\\com.mycompany.tiendaelectrodomestico.view\\guicontrol\\guideletecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{661959E0-AE67-4C6F-A156-3A96E766A74C}|POCClienteEmpleado\\Client.csproj|solutionrelative:pocclienteempleado\\com.mycompany.tiendaelectrodomestico.view\\guicontrol\\guideletecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661959E0-AE67-4C6F-A156-3A96E766A74C}|POCClienteEmpleado\\Client.csproj|c:\\users\\juanm\\onedrive\\desktop\\nueva carpeta (3)\\client\\client\\pocclienteempleado\\pocclienteempleado\\com.mycompany.tiendaelectrodomestico.view\\guicontrol\\guiaddcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661959E0-AE67-4C6F-A156-3A96E766A74C}|POCClienteEmpleado\\Client.csproj|solutionrelative:pocclienteempleado\\com.mycompany.tiendaelectrodomestico.view\\guicontrol\\guiaddcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661959E0-AE67-4C6F-A156-3A96E766A74C}|POCClienteEmpleado\\Client.csproj|c:\\users\\juanm\\onedrive\\desktop\\nueva carpeta (3)\\client\\client\\pocclienteempleado\\pocclienteempleado\\com.mycompany.tiendaelectrodomestico.view\\guicontrol\\guiaddcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{661959E0-AE67-4C6F-A156-3A96E766A74C}|POCClienteEmpleado\\Client.csproj|solutionrelative:pocclienteempleado\\com.mycompany.tiendaelectrodomestico.view\\guicontrol\\guiaddcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661959E0-AE67-4C6F-A156-3A96E766A74C}|POCClienteEmpleado\\Client.csproj|c:\\users\\juanm\\onedrive\\desktop\\nueva carpeta (3)\\client\\client\\pocclienteempleado\\pocclienteempleado\\com.mycompany.tiendaelectrodomestico.view\\guicontrol\\guifiltrardisponibilidadcontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661959E0-AE67-4C6F-A156-3A96E766A74C}|POCClienteEmpleado\\Client.csproj|solutionrelative:pocclienteempleado\\com.mycompany.tiendaelectrodomestico.view\\guicontrol\\guifiltrardisponibilidadcontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661959E0-AE67-4C6F-A156-3A96E766A74C}|POCClienteEmpleado\\Client.csproj|c:\\users\\juanm\\onedrive\\desktop\\nueva carpeta (3)\\client\\client\\pocclienteempleado\\pocclienteempleado\\com.mycompany.tiendaelectrodomestico.view\\guicontrol\\guifiltrardisponibilidadcontrol.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{661959E0-AE67-4C6F-A156-3A96E766A74C}|POCClienteEmpleado\\Client.csproj|solutionrelative:pocclienteempleado\\com.mycompany.tiendaelectrodomestico.view\\guicontrol\\guifiltrardisponibilidadcontrol.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GUISearchTelevisor.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\OneDrive\\Desktop\\Nueva carpeta (3)\\Client\\Client\\POCClienteEmpleado\\POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUITelevisor\\GUISearchTelevisor.cs",
+              "RelativeDocumentMoniker": "POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUITelevisor\\GUISearchTelevisor.cs",
+              "ToolTip": "C:\\Users\\juanm\\OneDrive\\Desktop\\Nueva carpeta (3)\\Client\\Client\\POCClienteEmpleado\\POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUITelevisor\\GUISearchTelevisor.cs*",
+              "RelativeToolTip": "POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUITelevisor\\GUISearchTelevisor.cs*",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAowGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T01:30:40.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GUISearchTelevisor.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\juanm\\OneDrive\\Desktop\\Nueva carpeta (3)\\Client\\Client\\POCClienteEmpleado\\POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUITelevisor\\GUISearchTelevisor.cs",
+              "RelativeDocumentMoniker": "POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUITelevisor\\GUISearchTelevisor.cs",
+              "ToolTip": "C:\\Users\\juanm\\OneDrive\\Desktop\\Nueva carpeta (3)\\Client\\Client\\POCClienteEmpleado\\POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUITelevisor\\GUISearchTelevisor.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUITelevisor\\GUISearchTelevisor.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T01:30:39.566Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GUIEditTelevisor.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\juanm\\OneDrive\\Desktop\\Nueva carpeta (3)\\Client\\Client\\POCClienteEmpleado\\POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUITelevisor\\GUIEditTelevisor.cs",
+              "RelativeDocumentMoniker": "POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUITelevisor\\GUIEditTelevisor.cs",
+              "ToolTip": "C:\\Users\\juanm\\OneDrive\\Desktop\\Nueva carpeta (3)\\Client\\Client\\POCClienteEmpleado\\POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUITelevisor\\GUIEditTelevisor.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUITelevisor\\GUIEditTelevisor.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T00:29:44.909Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GUIEditTelevisor.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\OneDrive\\Desktop\\Nueva carpeta (3)\\Client\\Client\\POCClienteEmpleado\\POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUITelevisor\\GUIEditTelevisor.cs",
+              "RelativeDocumentMoniker": "POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUITelevisor\\GUIEditTelevisor.cs",
+              "ToolTip": "C:\\Users\\juanm\\OneDrive\\Desktop\\Nueva carpeta (3)\\Client\\Client\\POCClienteEmpleado\\POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUITelevisor\\GUIEditTelevisor.cs*",
+              "RelativeToolTip": "POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUITelevisor\\GUIEditTelevisor.cs*",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAwwLgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T00:29:46.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GUIFiltrarTelevisor.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\juanm\\OneDrive\\Desktop\\Nueva carpeta (3)\\Client\\Client\\POCClienteEmpleado\\POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUITelevisor\\GUIFiltrarTelevisor.cs",
+              "RelativeDocumentMoniker": "POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUITelevisor\\GUIFiltrarTelevisor.cs",
+              "ToolTip": "C:\\Users\\juanm\\OneDrive\\Desktop\\Nueva carpeta (3)\\Client\\Client\\POCClienteEmpleado\\POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUITelevisor\\GUIFiltrarTelevisor.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUITelevisor\\GUIFiltrarTelevisor.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T00:21:12.103Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GUIFiltrarTelevisor.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\OneDrive\\Desktop\\Nueva carpeta (3)\\Client\\Client\\POCClienteEmpleado\\POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUITelevisor\\GUIFiltrarTelevisor.cs",
+              "RelativeDocumentMoniker": "POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUITelevisor\\GUIFiltrarTelevisor.cs",
+              "ToolTip": "C:\\Users\\juanm\\OneDrive\\Desktop\\Nueva carpeta (3)\\Client\\Client\\POCClienteEmpleado\\POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUITelevisor\\GUIFiltrarTelevisor.cs*",
+              "RelativeToolTip": "POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUITelevisor\\GUIFiltrarTelevisor.cs*",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAwwGsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T00:21:15.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GUIListTelevisor.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\juanm\\OneDrive\\Desktop\\Nueva carpeta (3)\\Client\\Client\\POCClienteEmpleado\\POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUITelevisor\\GUIListTelevisor.cs",
+              "RelativeDocumentMoniker": "POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUITelevisor\\GUIListTelevisor.cs",
+              "ToolTip": "C:\\Users\\juanm\\OneDrive\\Desktop\\Nueva carpeta (3)\\Client\\Client\\POCClienteEmpleado\\POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUITelevisor\\GUIListTelevisor.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUITelevisor\\GUIListTelevisor.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T00:21:09.432Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GUIListTelevisor.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\OneDrive\\Desktop\\Nueva carpeta (3)\\Client\\Client\\POCClienteEmpleado\\POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUITelevisor\\GUIListTelevisor.cs",
+              "RelativeDocumentMoniker": "POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUITelevisor\\GUIListTelevisor.cs",
+              "ToolTip": "C:\\Users\\juanm\\OneDrive\\Desktop\\Nueva carpeta (3)\\Client\\Client\\POCClienteEmpleado\\POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUITelevisor\\GUIListTelevisor.cs*",
+              "RelativeToolTip": "POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUITelevisor\\GUIListTelevisor.cs*",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAowD0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T00:21:20.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GUIDeleteTelevisor.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\OneDrive\\Desktop\\Nueva carpeta (3)\\Client\\Client\\POCClienteEmpleado\\POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUITelevisor\\GUIDeleteTelevisor.cs",
+              "RelativeDocumentMoniker": "POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUITelevisor\\GUIDeleteTelevisor.cs",
+              "ToolTip": "C:\\Users\\juanm\\OneDrive\\Desktop\\Nueva carpeta (3)\\Client\\Client\\POCClienteEmpleado\\POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUITelevisor\\GUIDeleteTelevisor.cs*",
+              "RelativeToolTip": "POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUITelevisor\\GUIDeleteTelevisor.cs*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T00:26:35.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GUIDeleteTelevisor.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\juanm\\OneDrive\\Desktop\\Nueva carpeta (3)\\Client\\Client\\POCClienteEmpleado\\POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUITelevisor\\GUIDeleteTelevisor.cs",
+              "RelativeDocumentMoniker": "POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUITelevisor\\GUIDeleteTelevisor.cs",
+              "ToolTip": "C:\\Users\\juanm\\OneDrive\\Desktop\\Nueva carpeta (3)\\Client\\Client\\POCClienteEmpleado\\POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUITelevisor\\GUIDeleteTelevisor.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUITelevisor\\GUIDeleteTelevisor.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T00:26:33.905Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GUIAddTelevisor.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\OneDrive\\Desktop\\Nueva carpeta (3)\\Client\\Client\\POCClienteEmpleado\\POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUITelevisor\\GUIAddTelevisor.cs",
+              "RelativeDocumentMoniker": "POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUITelevisor\\GUIAddTelevisor.cs",
+              "ToolTip": "C:\\Users\\juanm\\OneDrive\\Desktop\\Nueva carpeta (3)\\Client\\Client\\POCClienteEmpleado\\POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUITelevisor\\GUIAddTelevisor.cs*",
+              "RelativeToolTip": "POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUITelevisor\\GUIAddTelevisor.cs*",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAowHwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T01:29:25.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GUIAddTelevisor.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\juanm\\OneDrive\\Desktop\\Nueva carpeta (3)\\Client\\Client\\POCClienteEmpleado\\POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUITelevisor\\GUIAddTelevisor.cs",
+              "RelativeDocumentMoniker": "POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUITelevisor\\GUIAddTelevisor.cs",
+              "ToolTip": "C:\\Users\\juanm\\OneDrive\\Desktop\\Nueva carpeta (3)\\Client\\Client\\POCClienteEmpleado\\POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUITelevisor\\GUIAddTelevisor.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUITelevisor\\GUIAddTelevisor.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T01:29:24.183Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GUIListControl.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\OneDrive\\Desktop\\Nueva carpeta (3)\\Client\\Client\\POCClienteEmpleado\\POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUIControl\\GUIListControl.cs",
+              "RelativeDocumentMoniker": "POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUIControl\\GUIListControl.cs",
+              "ToolTip": "C:\\Users\\juanm\\OneDrive\\Desktop\\Nueva carpeta (3)\\Client\\Client\\POCClienteEmpleado\\POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUIControl\\GUIListControl.cs*",
+              "RelativeToolTip": "POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUIControl\\GUIListControl.cs*",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T01:03:42.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GUIListControl.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\juanm\\OneDrive\\Desktop\\Nueva carpeta (3)\\Client\\Client\\POCClienteEmpleado\\POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUIControl\\GUIListControl.cs",
+              "RelativeDocumentMoniker": "POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUIControl\\GUIListControl.cs",
+              "ToolTip": "C:\\Users\\juanm\\OneDrive\\Desktop\\Nueva carpeta (3)\\Client\\Client\\POCClienteEmpleado\\POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUIControl\\GUIListControl.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUIControl\\GUIListControl.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T01:03:41.214Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GUIFiltrarMarcaControl.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\OneDrive\\Desktop\\Nueva carpeta (3)\\Client\\Client\\POCClienteEmpleado\\POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUIControl\\GUIFiltrarMarcaControl.cs",
+              "RelativeDocumentMoniker": "POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUIControl\\GUIFiltrarMarcaControl.cs",
+              "ToolTip": "C:\\Users\\juanm\\OneDrive\\Desktop\\Nueva carpeta (3)\\Client\\Client\\POCClienteEmpleado\\POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUIControl\\GUIFiltrarMarcaControl.cs*",
+              "RelativeToolTip": "POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUIControl\\GUIFiltrarMarcaControl.cs*",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAgwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T00:23:01.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GUIFiltrarMarcaControl.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\juanm\\OneDrive\\Desktop\\Nueva carpeta (3)\\Client\\Client\\POCClienteEmpleado\\POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUIControl\\GUIFiltrarMarcaControl.cs",
+              "RelativeDocumentMoniker": "POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUIControl\\GUIFiltrarMarcaControl.cs",
+              "ToolTip": "C:\\Users\\juanm\\OneDrive\\Desktop\\Nueva carpeta (3)\\Client\\Client\\POCClienteEmpleado\\POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUIControl\\GUIFiltrarMarcaControl.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUIControl\\GUIFiltrarMarcaControl.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T00:23:00.382Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GUISearchControl.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\juanm\\OneDrive\\Desktop\\Nueva carpeta (3)\\Client\\Client\\POCClienteEmpleado\\POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUIControl\\GUISearchControl.cs",
+              "RelativeDocumentMoniker": "POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUIControl\\GUISearchControl.cs",
+              "ToolTip": "C:\\Users\\juanm\\OneDrive\\Desktop\\Nueva carpeta (3)\\Client\\Client\\POCClienteEmpleado\\POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUIControl\\GUISearchControl.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUIControl\\GUISearchControl.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T00:59:42.185Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GUISearchControl.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\OneDrive\\Desktop\\Nueva carpeta (3)\\Client\\Client\\POCClienteEmpleado\\POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUIControl\\GUISearchControl.cs",
+              "RelativeDocumentMoniker": "POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUIControl\\GUISearchControl.cs",
+              "ToolTip": "C:\\Users\\juanm\\OneDrive\\Desktop\\Nueva carpeta (3)\\Client\\Client\\POCClienteEmpleado\\POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUIControl\\GUISearchControl.cs*",
+              "RelativeToolTip": "POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUIControl\\GUISearchControl.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T00:59:44.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GUIFiltrarDisponibilidadControl.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\OneDrive\\Desktop\\Nueva carpeta (3)\\Client\\Client\\POCClienteEmpleado\\POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUIControl\\GUIFiltrarDisponibilidadControl.cs",
+              "RelativeDocumentMoniker": "POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUIControl\\GUIFiltrarDisponibilidadControl.cs",
+              "ToolTip": "C:\\Users\\juanm\\OneDrive\\Desktop\\Nueva carpeta (3)\\Client\\Client\\POCClienteEmpleado\\POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUIControl\\GUIFiltrarDisponibilidadControl.cs*",
+              "RelativeToolTip": "POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUIControl\\GUIFiltrarDisponibilidadControl.cs*",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T01:07:04.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GUIFiltrarDisponibilidadControl.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\juanm\\OneDrive\\Desktop\\Nueva carpeta (3)\\Client\\Client\\POCClienteEmpleado\\POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUIControl\\GUIFiltrarDisponibilidadControl.cs",
+              "RelativeDocumentMoniker": "POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUIControl\\GUIFiltrarDisponibilidadControl.cs",
+              "ToolTip": "C:\\Users\\juanm\\OneDrive\\Desktop\\Nueva carpeta (3)\\Client\\Client\\POCClienteEmpleado\\POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUIControl\\GUIFiltrarDisponibilidadControl.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUIControl\\GUIFiltrarDisponibilidadControl.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T01:06:58.574Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GUIEditControl.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\OneDrive\\Desktop\\Nueva carpeta (3)\\Client\\Client\\POCClienteEmpleado\\POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUIControl\\GUIEditControl.cs",
+              "RelativeDocumentMoniker": "POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUIControl\\GUIEditControl.cs",
+              "ToolTip": "C:\\Users\\juanm\\OneDrive\\Desktop\\Nueva carpeta (3)\\Client\\Client\\POCClienteEmpleado\\POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUIControl\\GUIEditControl.cs",
+              "RelativeToolTip": "POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUIControl\\GUIEditControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T01:02:09.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GUIEditControl.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\juanm\\OneDrive\\Desktop\\Nueva carpeta (3)\\Client\\Client\\POCClienteEmpleado\\POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUIControl\\GUIEditControl.cs",
+              "RelativeDocumentMoniker": "POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUIControl\\GUIEditControl.cs",
+              "ToolTip": "C:\\Users\\juanm\\OneDrive\\Desktop\\Nueva carpeta (3)\\Client\\Client\\POCClienteEmpleado\\POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUIControl\\GUIEditControl.cs [Dise\u00F1o]",
+              "RelativeToolTip": "POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUIControl\\GUIEditControl.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T01:01:12.292Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GUIDeleteControl.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\OneDrive\\Desktop\\Nueva carpeta (3)\\Client\\Client\\POCClienteEmpleado\\POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUIControl\\GUIDeleteControl.cs",
+              "RelativeDocumentMoniker": "POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUIControl\\GUIDeleteControl.cs",
+              "ToolTip": "C:\\Users\\juanm\\OneDrive\\Desktop\\Nueva carpeta (3)\\Client\\Client\\POCClienteEmpleado\\POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUIControl\\GUIDeleteControl.cs",
+              "RelativeToolTip": "POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUIControl\\GUIDeleteControl.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAwwGUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T00:50:43.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GUIDeleteControl.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\juanm\\OneDrive\\Desktop\\Nueva carpeta (3)\\Client\\Client\\POCClienteEmpleado\\POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUIControl\\GUIDeleteControl.cs",
+              "RelativeDocumentMoniker": "POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUIControl\\GUIDeleteControl.cs",
+              "ToolTip": "C:\\Users\\juanm\\OneDrive\\Desktop\\Nueva carpeta (3)\\Client\\Client\\POCClienteEmpleado\\POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUIControl\\GUIDeleteControl.cs [Dise\u00F1o]",
+              "RelativeToolTip": "POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUIControl\\GUIDeleteControl.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T00:50:41.368Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GUIAddControl.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\OneDrive\\Desktop\\Nueva carpeta (3)\\Client\\Client\\POCClienteEmpleado\\POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUIControl\\GUIAddControl.cs",
+              "RelativeDocumentMoniker": "POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUIControl\\GUIAddControl.cs",
+              "ToolTip": "C:\\Users\\juanm\\OneDrive\\Desktop\\Nueva carpeta (3)\\Client\\Client\\POCClienteEmpleado\\POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUIControl\\GUIAddControl.cs",
+              "RelativeToolTip": "POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUIControl\\GUIAddControl.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAowDMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T00:42:24.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GUIAddControl.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\juanm\\OneDrive\\Desktop\\Nueva carpeta (3)\\Client\\Client\\POCClienteEmpleado\\POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUIControl\\GUIAddControl.cs",
+              "RelativeDocumentMoniker": "POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUIControl\\GUIAddControl.cs",
+              "ToolTip": "C:\\Users\\juanm\\OneDrive\\Desktop\\Nueva carpeta (3)\\Client\\Client\\POCClienteEmpleado\\POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUIControl\\GUIAddControl.cs [Dise\u00F1o]",
+              "RelativeToolTip": "POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUIControl\\GUIAddControl.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T00:42:21.652Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "GUIFiltrarDisponibilidadControl.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\OneDrive\\Desktop\\Nueva carpeta (3)\\Client\\Client\\POCClienteEmpleado\\POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUIControl\\GUIFiltrarDisponibilidadControl.Designer.cs",
+              "RelativeDocumentMoniker": "POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUIControl\\GUIFiltrarDisponibilidadControl.Designer.cs",
+              "ToolTip": "C:\\Users\\juanm\\OneDrive\\Desktop\\Nueva carpeta (3)\\Client\\Client\\POCClienteEmpleado\\POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUIControl\\GUIFiltrarDisponibilidadControl.Designer.cs*",
+              "RelativeToolTip": "POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUIControl\\GUIFiltrarDisponibilidadControl.Designer.cs*",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAADwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T01:23:43.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GUIFiltrarDisponibilidadControl.resx",
+              "DocumentMoniker": "C:\\Users\\juanm\\OneDrive\\Desktop\\Nueva carpeta (3)\\Client\\Client\\POCClienteEmpleado\\POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUIControl\\GUIFiltrarDisponibilidadControl.resx",
+              "RelativeDocumentMoniker": "POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUIControl\\GUIFiltrarDisponibilidadControl.resx",
+              "ToolTip": "C:\\Users\\juanm\\OneDrive\\Desktop\\Nueva carpeta (3)\\Client\\Client\\POCClienteEmpleado\\POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUIControl\\GUIFiltrarDisponibilidadControl.resx*",
+              "RelativeToolTip": "POCClienteEmpleado\\com.mycompany.tiendaelectrodomestico.view\\GUIControl\\GUIFiltrarDisponibilidadControl.resx*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-10-20T01:24:21.331Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
