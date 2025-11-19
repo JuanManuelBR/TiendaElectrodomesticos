@@ -98,7 +98,7 @@ namespace POCClienteEmpleado
                 // =============================
                 foreach (var tvBoxNum in tvBoxes)
                 {
-                    var requestCheckTvBox = new RestRequest($"http://localhost:8091/api/tvbox/numero/{tvBoxNum}", Method.Get);
+                    var requestCheckTvBox = new RestRequest($"/televisor/tvbox/numero/{tvBoxNum}", Method.Get);
                     var responseTvBox = client.Execute(requestCheckTvBox);
 
                     if (!responseTvBox.IsSuccessful)
