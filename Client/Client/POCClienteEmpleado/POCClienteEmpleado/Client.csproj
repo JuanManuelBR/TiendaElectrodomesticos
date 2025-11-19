@@ -1,0 +1,384 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{661959E0-AE67-4C6F-A156-3A96E766A74C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>POCClienteEmpleado</RootNamespace>
+    <AssemblyName>POCClienteEmpleado</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Bcl.AsyncInterfaces, Version=8.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Bcl.AsyncInterfaces.8.0.0\lib\net462\Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="RestSharp, Version=112.1.0.0, Culture=neutral, PublicKeyToken=598062e77f915f75, processorArchitecture=MSIL">
+      <HintPath>..\packages\RestSharp.112.1.0\lib\net471\RestSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.Memory, Version=4.0.1.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.5.5\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.6.0.0\lib\net461\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Encodings.Web, Version=8.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Text.Encodings.Web.8.0.0\lib\net462\System.Text.Encodings.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Json, Version=8.0.0.4, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Text.Json.8.0.4\lib\net462\System.Text.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Threading.Tasks.Extensions.4.5.4\lib\net461\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ValueTuple.4.5.0\lib\net47\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="com.mycompany.tiendaelectrodomestico.view\GUIControl\GUIAddControl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="com.mycompany.tiendaelectrodomestico.view\GUIControl\GUIAddControl.Designer.cs">
+      <DependentUpon>GUIAddControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="com.mycompany.tiendaelectrodomestico.view\GUITelevisor\GUITelevisoresControlesMismaMarca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="com.mycompany.tiendaelectrodomestico.view\GUITelevisor\GUITelevisoresControlesMismaMarca.Designer.cs">
+      <DependentUpon>GUITelevisoresControlesMismaMarca.cs</DependentUpon>
+    </Compile>
+    <Compile Include="com.mycompany.tiendaelectrodomestico.view\GUIControl\GUIDeleteControl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="com.mycompany.tiendaelectrodomestico.view\GUIControl\GUIDeleteControl.Designer.cs">
+      <DependentUpon>GUIDeleteControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="com.mycompany.tiendaelectrodomestico.view\GUIControl\GUIEditControl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="com.mycompany.tiendaelectrodomestico.view\GUIControl\GUIEditControl.Designer.cs">
+      <DependentUpon>GUIEditControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="com.mycompany.tiendaelectrodomestico.view\GUIControl\GUIControlesDeMarcaAsignadosATV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="com.mycompany.tiendaelectrodomestico.view\GUIControl\GUIControlesDeMarcaAsignadosATV.Designer.cs">
+      <DependentUpon>GUIControlesDeMarcaAsignadosATV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="com.mycompany.tiendaelectrodomestico.view\GUITelevisor\GUIEditTelevisor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="com.mycompany.tiendaelectrodomestico.view\GUITelevisor\GUIEditTelevisor.Designer.cs">
+      <DependentUpon>GUIEditTelevisor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="com.mycompany.tiendaelectrodomestico.view\GUITelevisor\GUIDeleteTelevisor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="com.mycompany.tiendaelectrodomestico.view\GUITelevisor\GUIDeleteTelevisor.Designer.cs">
+      <DependentUpon>GUIDeleteTelevisor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="com.mycompany.tiendaelectrodomestico.view\GUIControl\GUIFiltrarDisponibilidadControl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="com.mycompany.tiendaelectrodomestico.view\GUIControl\GUIFiltrarDisponibilidadControl.Designer.cs">
+      <DependentUpon>GUIFiltrarDisponibilidadControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="com.mycompany.tiendaelectrodomestico.view\GUIControl\GUIFiltrarMarcaControl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="com.mycompany.tiendaelectrodomestico.view\GUIControl\GUIFiltrarMarcaControl.Designer.cs">
+      <DependentUpon>GUIFiltrarMarcaControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="com.mycompany.tiendaelectrodomestico.view\GUITelevisor\GUIFiltrarTelevisor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="com.mycompany.tiendaelectrodomestico.view\GUITelevisor\GUIFiltrarTelevisor.Designer.cs">
+      <DependentUpon>GUIFiltrarTelevisor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="com.mycompany.tiendaelectrodomestico.view\GUIControl\GUIListControl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="com.mycompany.tiendaelectrodomestico.view\GUIControl\GUIListControl.Designer.cs">
+      <DependentUpon>GUIListControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="com.mycompany.tiendaelectrodomestico.view\GUIControl\GUISearchControl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="com.mycompany.tiendaelectrodomestico.view\GUIControl\GUISearchControl.Designer.cs">
+      <DependentUpon>GUISearchControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="com.mycompany.tiendaelectrodomestico.view\GUITelevisor\GUISearchTelevisor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="com.mycompany.tiendaelectrodomestico.view\GUITelevisor\GUISearchTelevisor.Designer.cs">
+      <DependentUpon>GUISearchTelevisor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="com.mycompany.tiendaelectrodomestico.view\GUITelevisor\GUIListTelevisor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="com.mycompany.tiendaelectrodomestico.view\GUITelevisor\GUIListTelevisor.Designer.cs">
+      <DependentUpon>GUIListTelevisor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="com.mycompany.tiendaelectrodomestico.view\GUIPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="com.mycompany.tiendaelectrodomestico.view\GUIPrincipal.Designer.cs">
+      <DependentUpon>GUIPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="com.mycompany.tiendaelectrodomestico.view\GUITelevisor\GUIAddTelevisor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="com.mycompany.tiendaelectrodomestico.view\GUITelevisor\GUIAddTelevisor.Designer.cs">
+      <DependentUpon>GUIAddTelevisor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="com.mycompany.tiendaelectrodomestico.view\GUITvBox\GUIAddTvBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="com.mycompany.tiendaelectrodomestico.view\GUITvBox\GUIAddTvBox.Designer.cs">
+      <DependentUpon>GUIAddTvBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="com.mycompany.tiendaelectrodomestico.view\GUITvBox\GUIDeleteTvBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="com.mycompany.tiendaelectrodomestico.view\GUITvBox\GUIDeleteTvBox.Designer.cs">
+      <DependentUpon>GUIDeleteTvBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="com.mycompany.tiendaelectrodomestico.view\GUITvBox\GUIEditTvBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="com.mycompany.tiendaelectrodomestico.view\GUITvBox\GUIEditTvBox.Designer.cs">
+      <DependentUpon>GUIEditTvBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="com.mycompany.tiendaelectrodomestico.view\GUITvBox\GUIFiltrarTvBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="com.mycompany.tiendaelectrodomestico.view\GUITvBox\GUIFiltrarTvBox.Designer.cs">
+      <DependentUpon>GUIFiltrarTvBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="com.mycompany.tiendaelectrodomestico.view\GUITvBox\GUIListTvBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="com.mycompany.tiendaelectrodomestico.view\GUITvBox\GUIListTvBox.Designer.cs">
+      <DependentUpon>GUIListTvBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="com.mycompany.tiendaelectrodomestico.view\GUITvBox\GUISearchTvBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="com.mycompany.tiendaelectrodomestico.view\GUITvBox\GUISearchTvBox.Designer.cs">
+      <DependentUpon>GUISearchTvBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="com.mycompany.tiendaelectrodomestico.view\GUIControl\GUIAddControl.resx">
+      <DependentUpon>GUIAddControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="com.mycompany.tiendaelectrodomestico.view\GUITelevisor\GUITelevisoresControlesMismaMarca.resx">
+      <DependentUpon>GUITelevisoresControlesMismaMarca.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="com.mycompany.tiendaelectrodomestico.view\GUIControl\GUIDeleteControl.resx">
+      <DependentUpon>GUIDeleteControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="com.mycompany.tiendaelectrodomestico.view\GUIControl\GUIEditControl.resx">
+      <DependentUpon>GUIEditControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="com.mycompany.tiendaelectrodomestico.view\GUIControl\GUIControlesDeMarcaAsignadosATV.resx">
+      <DependentUpon>GUIControlesDeMarcaAsignadosATV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="com.mycompany.tiendaelectrodomestico.view\GUITelevisor\GUIEditTelevisor.resx">
+      <DependentUpon>GUIEditTelevisor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="com.mycompany.tiendaelectrodomestico.view\GUITelevisor\GUIDeleteTelevisor.resx">
+      <DependentUpon>GUIDeleteTelevisor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="com.mycompany.tiendaelectrodomestico.view\GUIControl\GUIFiltrarDisponibilidadControl.resx">
+      <DependentUpon>GUIFiltrarDisponibilidadControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="com.mycompany.tiendaelectrodomestico.view\GUIControl\GUIFiltrarMarcaControl.resx">
+      <DependentUpon>GUIFiltrarMarcaControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="com.mycompany.tiendaelectrodomestico.view\GUITelevisor\GUIFiltrarTelevisor.resx">
+      <DependentUpon>GUIFiltrarTelevisor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="com.mycompany.tiendaelectrodomestico.view\GUIControl\GUIListControl.resx">
+      <DependentUpon>GUIListControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="com.mycompany.tiendaelectrodomestico.view\GUIControl\GUISearchControl.resx">
+      <DependentUpon>GUISearchControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="com.mycompany.tiendaelectrodomestico.view\GUITelevisor\GUISearchTelevisor.resx">
+      <DependentUpon>GUISearchTelevisor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="com.mycompany.tiendaelectrodomestico.view\GUITelevisor\GUIAddTelevisor.resx">
+      <DependentUpon>GUIAddTelevisor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="com.mycompany.tiendaelectrodomestico.view\GUITelevisor\GUIListTelevisor.resx">
+      <DependentUpon>GUIListTelevisor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="com.mycompany.tiendaelectrodomestico.view\GUIPrincipal.resx">
+      <DependentUpon>GUIPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="com.mycompany.tiendaelectrodomestico.view\GUITvBox\GUIAddTvBox.resx">
+      <DependentUpon>GUIAddTvBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="com.mycompany.tiendaelectrodomestico.view\GUITvBox\GUIDeleteTvBox.resx">
+      <DependentUpon>GUIDeleteTvBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="com.mycompany.tiendaelectrodomestico.view\GUITvBox\GUIEditTvBox.resx">
+      <DependentUpon>GUIEditTvBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="com.mycompany.tiendaelectrodomestico.view\GUITvBox\GUIFiltrarTvBox.resx">
+      <DependentUpon>GUIFiltrarTvBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="com.mycompany.tiendaelectrodomestico.view\GUITvBox\GUIListTvBox.resx">
+      <DependentUpon>GUIListTvBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="com.mycompany.tiendaelectrodomestico.view\GUITvBox\GUISearchTvBox.resx">
+      <DependentUpon>GUISearchTvBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ChatGPT Image 1 oct 2025, 09_46_18 a.m..png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Adobe Express - file.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\añadir.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\buscar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Editar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\listar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\filtrar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eliminar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\añadirPequeño.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\buscarPequeño.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EditarPequeño.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eliminarPequeño.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image-removebg-previeww.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image-removebg-preswview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image-removebg-prewwview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image-removebg-previessw.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image-removebg-preeeeview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image-removesdbg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image-removebg-preswview1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\agregar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Editar1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Buscar1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\listar1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\filtrar1.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
